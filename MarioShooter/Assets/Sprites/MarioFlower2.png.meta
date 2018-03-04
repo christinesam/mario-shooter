@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 33bc09b0229d44d5694626f7bc5838e8
+timeCreated: 1472938763
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarioFlower2_0
+    21300002: MarioFlower2_1
+    21300004: MarioFlower2_2
+    21300006: MarioFlower2_3
+    21300008: MarioFlower2_4
+    21300010: MarioFlower2_5
+    21300012: MarioFlower2_6
+    21300014: MarioFlower2_7
+    21300016: MarioFlower2_8
+    21300018: MarioFlower2_9
+    21300020: MarioFlower2_10
+    21300022: MarioFlower2_11
+    21300024: MarioFlower2_12
+    21300026: MarioFlower2_13
+    21300028: MarioFlower2_14
+    21300030: MarioFlower2_15
+    21300032: MarioFlower2_16
+    21300034: MarioFlower2_17
+    21300036: MarioFlower2_18
+    21300038: MarioFlower2_19
+    21300040: MarioFlower2_20
+    21300042: MarioFlower2_21
+    21300044: MarioFlower2_22
+    21300046: MarioFlower2_23
+    21300048: MarioFlower2_24
+    21300050: MarioFlower2_25
+    21300052: MarioFlower2_26
+    21300054: MarioFlower2_27
+    21300056: MarioFlower2_28
+    21300058: MarioFlower2_29
+    21300060: MarioFlower2_30
+    21300062: MarioFlower2_31
+    21300064: MarioFlower2_32
+    21300066: MarioFlower2_33
+    21300068: MarioFlower2_34
+    21300070: MarioFlower2_35
+    21300072: MarioFlower2_36
+    21300074: MarioFlower2_37
+    21300076: MarioFlower2_38
+    21300078: MarioFlower2_39
+    21300080: MarioFlower2_40
+    21300082: MarioFlower2_41
+    21300084: MarioFlower2_42
+    21300086: MarioFlower2_43
+    21300088: MarioFlower2_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioFlower2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_23
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_25
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_27
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_28
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_29
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_30
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_31
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_32
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_33
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_34
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_35
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_36
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_37
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_38
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_39
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_40
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_41
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_42
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_43
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioFlower2_44
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 0
+        width: 49
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

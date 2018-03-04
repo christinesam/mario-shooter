@@ -1,0 +1,17 @@
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/UnityEngine.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/UnityEditor.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/csam/Documents/Unity/MarioShooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/csam/Documents/Unity/MarioShooter/obj/Debug/Assembly-CSharp.dll
+/Users/csam/Documents/Unity/MarioShooter/obj/Debug/Assembly-CSharp.dll.mdb
